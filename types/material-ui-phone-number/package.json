@@ -2,6 +2,6 @@
     "private": true,
     "dependencies": {
         "@material-ui/core": "^4.11.3",
-        "@material-ui/types": "5.1.0"
+        "@material-ui/types": "6.0.0"
     }
 }
