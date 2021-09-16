@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "electron": "6"
+        "electron": "10.4.7"
     }
 }
