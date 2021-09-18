@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "protractor": "5.4.3"
+        "protractor": "6.0.0"
     }
 }
