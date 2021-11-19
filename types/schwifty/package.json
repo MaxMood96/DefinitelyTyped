@@ -3,6 +3,6 @@
     "dependencies": {
         "joi": "^17.3.0",
         "knex": "^0.16.1",
-        "objection": "^1.1.9"
+        "objection": "^3.0.0"
     }
 }
