@@ -2,6 +2,6 @@
   "private": true,
   "dependencies": {
     "glaze": ">=0.5.1",
-    "treat": "^1.2.4"
+    "treat": "^2.0.0"
   }
 }
