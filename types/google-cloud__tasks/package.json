@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "google-gax": "^0.22.1"
+        "google-gax": "^3.6.1"
     }
 }
