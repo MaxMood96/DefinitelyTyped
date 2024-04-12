@@ -6,7 +6,7 @@
         "https://github.com/jonathantneal/postcss-gap-properties#readme"
     ],
     "dependencies": {
-        "postcss": "^7.0.2"
+        "postcss": "^8.4.31"
     },
     "devDependencies": {
         "@types/postcss-gap-properties": "workspace:."
