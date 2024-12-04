@@ -10,7 +10,7 @@
         "@types/multer": "*",
         "@types/node": "*",
         "mongodb": "^4.5.0",
-        "mongoose": "^6.3.0"
+        "mongoose": "^8.8.3"
     },
     "devDependencies": {
         "@types/multer-gridfs-storage": "workspace:."
