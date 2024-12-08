@@ -9,7 +9,7 @@
         "@types/express": "*",
         "@types/multer": "*",
         "@types/node": "*",
-        "mongoose": "^6.3.0"
+        "mongoose": "^8.8.3"
     },
     "devDependencies": {
         "@types/multer-gridfs-storage": "workspace:."
