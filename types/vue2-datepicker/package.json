@@ -6,7 +6,7 @@
         "https://github.com/mengxiong10/vue2-datepicker"
     ],
     "dependencies": {
-        "vue": "^2.5.0"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "@types/vue2-datepicker": "workspace:."
