@@ -6,7 +6,7 @@
         "https://github.com/rollup/plugins/tree/master/packages/virtual#readme"
     ],
     "dependencies": {
-        "rollup": "^1.31.1"
+        "rollup": "^3.29.5"
     },
     "devDependencies": {
         "@types/rollup__plugin-virtual": "workspace:."
