@@ -7,7 +7,7 @@
         "https://resurgencewebdesign.com/v-chart"
     ],
     "dependencies": {
-        "vue": "^2.0.0"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "@types/v-chart-plugin": "workspace:."
