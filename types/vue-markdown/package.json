@@ -6,7 +6,7 @@
         "https://github.com/miaolz123/vue-markdown#readme"
     ],
     "dependencies": {
-        "vue": "^2.5.16"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "@types/vue-markdown": "workspace:."
