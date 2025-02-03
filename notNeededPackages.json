@@ -516,6 +516,14 @@
             "libraryName": "burns",
             "asOfVersion": "2.1.0"
         },
+        "cache-manager": {
+            "libraryName": "cache-manager",
+            "asOfVersion": "5.0.0"
+        },
+        "cache-manager-redis-store": {
+            "libraryName": "cache-manager-redis-store",
+            "asOfVersion": "3.0.0"
+        },
         "cacheable-request": {
             "libraryName": "cacheable-request",
             "asOfVersion": "8.3.1"
@@ -2329,6 +2337,10 @@
             "libraryName": "@hapi/boom",
             "asOfVersion": "9.0.0"
         },
+        "hapi__catbox-memory": {
+            "libraryName": "@hapi/catbox-memory",
+            "asOfVersion": "6.0.2"
+        },
         "hapi__code": {
             "libraryName": "@hapi/code",
             "asOfVersion": "8.0.0"
@@ -2360,6 +2372,10 @@
         "hapi__topo": {
             "libraryName": "@hapi/topo",
             "asOfVersion": "5.0.0"
+        },
+        "hapi__vision": {
+            "libraryName": "@hapi/vision",
+            "asOfVersion": "7.0.2"
         },
         "hapi__wreck": {
             "libraryName": "@hapi/wreck",
@@ -2524,6 +2540,10 @@
         "i18next-express-middleware": {
             "libraryName": "i18next-express-middleware",
             "asOfVersion": "1.7.0"
+        },
+        "i18next-fs-backend": {
+            "libraryName": "i18next-fs-backend",
+            "asOfVersion": "1.2.0"
         },
         "i18next-xhr-backend": {
             "libraryName": "i18next-xhr-backend",
@@ -3201,6 +3221,10 @@
             "libraryName": "known",
             "asOfVersion": "3.0.0"
         },
+        "koa-graphql": {
+            "libraryName": "koa-graphql",
+            "asOfVersion": "0.12.0"
+        },
         "koa-jwt": {
             "libraryName": "koa-jwt",
             "asOfVersion": "3.3.0"
@@ -3260,6 +3284,10 @@
         "left-pad": {
             "libraryName": "left-pad",
             "asOfVersion": "1.2.0"
+        },
+        "level": {
+            "libraryName": "level",
+            "asOfVersion": "8.0.0"
         },
         "leven": {
             "libraryName": "leven",
@@ -4337,6 +4365,10 @@
             "libraryName": "package-json",
             "asOfVersion": "6.1.0"
         },
+        "package-json-validator": {
+            "libraryName": "package-json-validator",
+            "asOfVersion": "0.8.0"
+        },
         "pad": {
             "libraryName": "pad",
             "asOfVersion": "2.1.0"
@@ -5075,6 +5107,10 @@
             "libraryName": "react-cropper",
             "asOfVersion": "2.0.0"
         },
+        "react-custom-scroll": {
+            "libraryName": "react-custom-scroll",
+            "asOfVersion": "7.0.0"
+        },
         "react-datepicker": {
             "libraryName": "react-datepicker",
             "asOfVersion": "7.0.0"
@@ -5182,6 +5218,10 @@
         "react-inlinesvg": {
             "libraryName": "react-inlinesvg",
             "asOfVersion": "1.0.0"
+        },
+        "react-inspector": {
+            "libraryName": "react-inspector",
+            "asOfVersion": "6.0.1"
         },
         "react-interactive": {
             "libraryName": "react-interactive",
@@ -5294,6 +5334,10 @@
         "react-native-linear-gradient": {
             "libraryName": "react-native-linear-gradient",
             "asOfVersion": "2.4.0"
+        },
+        "react-native-loading-spinner-overlay": {
+            "libraryName": "react-native-loading-spinner-overlay",
+            "asOfVersion": "3.0.0"
         },
         "react-native-mail": {
             "libraryName": "react-native-mail",
@@ -5982,6 +6026,10 @@
         "slice-ansi": {
             "libraryName": "slice-ansi",
             "asOfVersion": "7.1.0"
+        },
+        "slonik": {
+            "libraryName": "slonik",
+            "asOfVersion": "23.0.0"
         },
         "smooth-scrollbar": {
             "libraryName": "smooth-scrollbar",
@@ -7162,6 +7210,10 @@
         "xml-js": {
             "libraryName": "xml-js",
             "asOfVersion": "1.0.0"
+        },
+        "xml-zero-lexer": {
+            "libraryName": "xml-zero-lexer",
+            "asOfVersion": "3.1.8"
         },
         "xmlbuilder": {
             "libraryName": "xmlbuilder",
