@@ -6,7 +6,7 @@
         "https://github.com/epoberezkin/ajv-pack"
     ],
     "dependencies": {
-        "ajv": "^5.0.0"
+        "ajv": "^6.12.3"
     },
     "devDependencies": {
         "@types/ajv-pack": "workspace:."
