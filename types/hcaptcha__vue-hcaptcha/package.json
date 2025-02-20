@@ -6,7 +6,7 @@
         "https://github.com/hCaptcha/vue-hcaptcha"
     ],
     "dependencies": {
-        "vue": "^2.5.17"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "@types/hcaptcha__vue-hcaptcha": "workspace:."
