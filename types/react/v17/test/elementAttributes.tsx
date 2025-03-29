@@ -124,4 +124,13 @@ const eventCallbacksTestCases = [
     <meter onClick={e => e.currentTarget.optimum} />,
     <output onClick={e => e.currentTarget.value} />,
     <time onClick={e => e.currentTarget.dateTime} />,
+    <video onResize={e => e.currentTarget} onResizeCapture={e => e.currentTarget} />,
+];
+
+const ariaAttributesTestCases = [
+    <a aria-braillelabel="a" />,
+    <a aria-brailleroledescription="a" />,
+    <a aria-colindextext="a" />,
+    <a aria-rowindextext="a" />,
+    <a aria-description="a" />,
 ];
