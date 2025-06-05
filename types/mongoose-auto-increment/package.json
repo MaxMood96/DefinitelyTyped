@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "mongoose": "^6.3.0"
+        "mongoose": "^8.0.0"
     },
     "devDependencies": {
         "@types/mongoose-auto-increment": "workspace:."
