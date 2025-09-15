@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/koa": "*",
-        "log4js": "^3.0.0"
+        "log4js": "^6.4.0"
     },
     "devDependencies": {
         "@types/koa-log4": "workspace:."
