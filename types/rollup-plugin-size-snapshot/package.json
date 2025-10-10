@@ -6,7 +6,7 @@
         "https://github.com/TrySound/rollup-plugin-size-snapshot"
     ],
     "dependencies": {
-        "rollup": "^0.63.4"
+        "rollup": "^0.68.2"
     },
     "devDependencies": {
         "@types/rollup-plugin-size-snapshot": "workspace:."
