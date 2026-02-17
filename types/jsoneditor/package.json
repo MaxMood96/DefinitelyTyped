@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/ace": "*",
-        "ajv": "^6.12.0"
+        "ajv": "^8.18.0"
     },
     "devDependencies": {
         "@types/jsoneditor": "workspace:."
