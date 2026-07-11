@@ -6,7 +6,7 @@
         "https://github.com/mariomka/vue-datetime#readme"
     ],
     "dependencies": {
-        "vue": "^2.0.0"
+        "vue": "^3.0.0"
     },
     "devDependencies": {
         "@types/vue-datetime": "workspace:."
