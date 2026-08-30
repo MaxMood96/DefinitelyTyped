@@ -6,7 +6,7 @@
         "https://github.com/fengyuanchen/postcss-header"
     ],
     "dependencies": {
-        "postcss": "^7.0.32"
+        "postcss": "^8.4.31"
     },
     "devDependencies": {
         "@types/postcss-header": "workspace:."
