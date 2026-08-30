@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/node": "*",
         "@types/ws": "*",
-        "mqtt": "^4.2.8"
+        "mqtt": "^5.0.0"
     },
     "devDependencies": {
         "@types/aws-iot-device-sdk": "workspace:."
