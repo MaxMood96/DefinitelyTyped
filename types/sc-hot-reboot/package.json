@@ -8,7 +8,7 @@
     "dependencies": {
         "@types/node": "*",
         "@types/socketcluster": "*",
-        "chokidar": "^2.1.2"
+        "chokidar": "^3.0.0"
     },
     "devDependencies": {
         "@types/sc-hot-reboot": "workspace:."
