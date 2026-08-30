@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/node": "*",
-        "rollup": "^0.63.4"
+        "rollup": "^3.29.5"
     },
     "devDependencies": {
         "@types/rollup-plugin-node-builtins": "workspace:."
