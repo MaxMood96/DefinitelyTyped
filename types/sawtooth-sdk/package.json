@@ -9,7 +9,7 @@
     "dependencies": {
         "@types/long": "^4",
         "@types/node": "*",
-        "protobufjs": "^6.8.8"
+        "protobufjs": "^7.5.5"
     },
     "devDependencies": {
         "@types/sawtooth-sdk": "workspace:."
